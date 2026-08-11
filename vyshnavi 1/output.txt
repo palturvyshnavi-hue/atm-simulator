@@ -1,0 +1,67 @@
+
+---
+
+## 4. `output.txt`
+
+Use this as your **sample output** for the project submission.
+
+```text
+========================================
+       WELCOME TO PYTHON ATM
+========================================
+Enter your 4-digit PIN: 1234
+
+Login successful!
+
+========================================
+ATM MENU
+========================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+========================================
+Enter your choice: 1
+
+Current balance: ₹10000.00
+
+========================================
+ATM MENU
+========================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+========================================
+Enter your choice: 2
+
+Enter deposit amount: ₹2000
+₹2000.00 deposited successfully.
+New balance: ₹12000.00
+
+========================================
+ATM MENU
+========================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+========================================
+Enter your choice: 3
+
+Enter withdrawal amount: ₹3000
+₹3000.00 withdrawn successfully.
+Remaining balance: ₹9000.00
+
+========================================
+ATM MENU
+========================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+========================================
+Enter your choice: 4
+
+Thank you for using Python ATM.
+Please take your card.
